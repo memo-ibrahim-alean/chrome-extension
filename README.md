@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [@GitHub]()
-- Live Site URL: [@GitHub]()
+- Solution URL: [@GitHub](https://github.com/memo-ibrahim-alean/chrome-extension)
+- Live Site URL: [@GitHub](https://memo-ibrahim-alean.github.io/chrome-extension/)
 
 ### How to install
 
